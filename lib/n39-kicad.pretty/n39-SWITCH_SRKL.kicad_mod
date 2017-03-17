@@ -1,4 +1,4 @@
-(module n39-SWITCH_SRKL (layer F.Cu) (tedit 58C7040E)
+(module n39-SWITCH_SRKL (layer F.Cu) (tedit 58CBFAE5)
   (descr SWITCH)
   (tags SWITCH)
   (attr virtual)
@@ -38,4 +38,6 @@
   (pad 2 thru_hole oval (at -3.81 0 180) (size 1.3208 2.6416) (drill 0.8128) (layers *.Cu *.Paste *.Mask))
   (pad 3 thru_hole oval (at 3.81 0 180) (size 1.3208 2.6416) (drill 0.8128) (layers *.Cu *.Paste *.Mask))
   (pad 4 thru_hole oval (at 3.81 5.08 180) (size 1.3208 2.6416) (drill 0.8128) (layers *.Cu *.Paste *.Mask))
+  (pad "" np_thru_hole circle (at 3.81 -7.62) (size 1.1 1.1) (drill 1.1) (layers *.Cu))
+  (pad "" np_thru_hole circle (at -3.81 7.62) (size 1.1 1.1) (drill 1.1) (layers *.Cu))
 )
