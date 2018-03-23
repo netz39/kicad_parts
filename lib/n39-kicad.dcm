@@ -1,0 +1,32 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CAT4101
+D 1A Constant-Current LED Driver with PWM Dimming
+$ENDCMP
+#
+$CMP MCP9808
+D ±0.5°C Maximum AccuracyDigital Temperature Sensor
+$ENDCMP
+#
+$CMP VQE21
+D 7 Segment LED Display, green, common kathode
+$ENDCMP
+#
+$CMP VQE22
+D 7 Segment LED Display, green, common kathode
+$ENDCMP
+#
+$CMP VQE23
+D 7 Segment LED Display, green, common kathode
+$ENDCMP
+#
+$CMP VQE24
+D 7 Segment LED Display, green, common anode
+$ENDCMP
+#
+$CMP microchip_SRAM_23x512
+D 512Kbit SPI Serial SRAM with SDI and SQI Interface
+K SRAM
+$ENDCMP
+#
+#End Doc Library
