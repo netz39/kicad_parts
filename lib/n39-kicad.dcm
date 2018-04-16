@@ -28,6 +28,10 @@ $CMP VQE24
 D 7 Segment LED Display, green, common anode
 $ENDCMP
 #
+$CMP WS2812
+D WS2812 intelligent control LED integrated light source
+$ENDCMP
+#
 $CMP microchip_SRAM_23x512
 D 512Kbit SPI Serial SRAM with SDI and SQI Interface
 K SRAM
