@@ -12,6 +12,10 @@ $CMP PCA9551
 D 8-bit I2C-bus LED driver with programmable blink rates
 $ENDCMP
 #
+$CMP VQB28
+D 7 Segment LED Display, green, common kathode
+$ENDCMP
+#
 $CMP VQE21
 D 7 Segment LED Display, green, common kathode
 $ENDCMP
